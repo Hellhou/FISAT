@@ -1,0 +1,90 @@
+.name{
+    color: aqua;
+    background-color: black;
+    margin: 100px;
+}
+
+#name{
+    color: brown;
+}
+
+body{
+
+    background-image: url("./images/five-empty-comic-book-page-colorful-template-background_1017-11427.avif");
+    background-size: auto;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+.d1{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: 40px;
+    position: relative;
+    left: -130px;
+    top: 0px;
+}
+.d2{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: large;
+    position: relative;
+    left: -170px;
+    top: 200px;
+}
+.d3{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: x-large;
+    position: relative;
+    left: 790px;
+    top: 130px;
+}
+.d4{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: x-large;
+    position: relative;
+    left: 830px;
+    top: -200px;
+}
+.d5{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: large;
+    position: relative;
+    left: 840px;
+    top: -620px;
+}
+.d6{
+    display: flex;
+    justify-content: baseline;
+    position: absolute;
+    left:800px;
+    top: 0px;
+}
+.d7{
+    display: flex;
+    justify-content: baseline;
+    position: absolute;
+    left:0px;
+    top: 0px;
+}
+.d8{
+    display: flex;
+    justify-content: baseline;
+    position: absolute;
+    left:600px;
+    top: 600px;
+}
+.d9{
+    display: flex;
+    justify-content: baseline;
+    position: absolute;
+    left:600px;
+    top: 600px;
+}
